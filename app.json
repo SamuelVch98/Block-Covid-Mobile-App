@@ -1,0 +1,15 @@
+{
+  "name": "BlockCovidMobil",
+  "displayName": "BlockCovidMobil",
+  "expo": {
+    "name": "BlockCovidMobil",
+    "slug": "BlockCovidMobil",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "android": {
+    "googleServicesFile": "./google-services.json"
+  }
+}
